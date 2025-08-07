@@ -14,4 +14,4 @@ A simple, **responsive** web app for converting between Metric and Imperial unit
 - JavaScript 
 
 ## Live Demo  
-[Live Preview] https://unit-converter-app-ashir.netlify.app/ 
+[Live Preview](https://unit-converter-app-ashir.netlify.app/) 
